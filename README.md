@@ -10,3 +10,13 @@ The National Gallery is an **art museum** in Trafalgar Square in the City of Wes
  1. We recommend flying to London Heathrow (LHR) Airport
  2. which is 14.4 miles away from London. The train and subway from London Heathrow (LHR) to London takes 31 min.
  3. stay i.e, There are 2000+ hotels available in National Gallery. Prices start at $100 USD per night.
+
+ # unordered list 
+ * Smithsonian National Museum of Natural History.
+ * National Museum of African American History and Culture.
+    * U.S. Capitol.
+    * Lincoln Memorial.
+ * National Gallery of Art.
+ * United States Holocaust Memorial Museum.
+ * Library of Congress.
+ * National Air and Space Museum.
