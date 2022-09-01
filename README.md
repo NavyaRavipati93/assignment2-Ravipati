@@ -21,6 +21,5 @@ The National Gallery is an **art museum** in Trafalgar Square in the City of Wes
  * Library of Congress.
  * National Air and Space Museum.
 
- Link to [click here to know in detail AboutMe](AboutMe.md)
+ Link to [click here to know and understand in detail AboutMe](AboutMe.md)
 
- 

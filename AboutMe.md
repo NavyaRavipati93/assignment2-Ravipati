@@ -2,4 +2,4 @@
 
 I'm navya ravipati from guntur, andhra pradesh. currently pursuing my masters in applied computer science from northwest missouri state university,maryville, missouri.
 
-[click here to see my picture](Navya.jpeg)
+[click here to see my image](Navya.jpeg)
