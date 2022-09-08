@@ -52,7 +52,7 @@ Some of the cities i would like to recommend to visit the locations people like 
 
 > Closing Tag Is Being Outputted To Early In A While Loop - PHP
 
-[LINK TO STACK OVERFLOW](https://stackoverflow.com/questions/73642710closing-div-tag-is-being-outputted-to-early-in-a-while-loop-php)
+[STACK OVERFLOW](https://stackoverflow.com/questions/73642710/closing-div-tag-is-being-outputted-to-early-in-a-while-loop-php)
 
 
 ```
