@@ -26,6 +26,9 @@ The National Gallery is an **art museum** in Trafalgar Square in the City of Wes
 ---
 # INTERESTING PLACES TO VISIT IN CITIES
 
+Some of the cities i would like to recommend to visit the locations people like most. 
+
+
 |CITY|LOCATION|TIME|
 |----|--------|----|
 |USA|LAS VEGAS|3 HOURS|
