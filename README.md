@@ -45,3 +45,70 @@ Some of the cities i would like to recommend to visit the locations people like 
 
 > The greatest sin is to think yourself weak.
 *Swami Vivekananda*
+
+
+---
+# CODE SNIPPET
+
+> Closing Tag Is Being Outputted To Early In A While Loop - PHP
+
+[LINK TO STACK OVERFLOW](https://stackoverflow.com/questions/73642710closing-div-tag-is-being-outputted-to-early-in-a-while-loop-php)
+
+
+```
+<div class="column">
+    <?php
+
+        $s = "SELECT boards.board_name, boards.board_id, images.filename
+        FROM boards
+        INNER JOIN boards_images ON boards_images.board_id = boards.board_id
+        INNER JOIN images        ON boards_images.image_id = images.image_id
+        WHERE boards.user_id = :user_id";
+
+        $stmt = $connection->prepare($s);
+        $stmt -> execute([
+            ':user_id' => $db_id  // $db_id is from a $_SESSION login value
+        ]);
+
+        $dbBoardname_last = '';
+        $imgcount = 0;
+
+        while ($row = $stmt->fetch()) {
+
+            $dbBoardname = htmlspecialchars($row['board_name']);
+            $dbImageFile = "$wwwRoot/images-lib/" . htmlspecialchars($row['filename']);
+
+            //if the board name is the same as the previous $row only add images. 
+            if($dbBoardname != $dbBoardname_last) {
+
+                //reset the image count for new boards
+                $imgcount = 0;
+
+                echo "
+                <div class='board-component'>
+                    <h2>{$dbBoardname}</h2>
+                ";
+            }
+
+            // if less than 4 images   
+            if($imgcount < 4) { 
+                echo "
+                <img src='{$dbImageFile}'>
+                ";
+            }
+
+            $imgcount+=1;
+            
+            // close the board component div
+            if($dbBoardname != $dbBoardname_last) {
+                echo "
+                </div>
+                ";
+            }
+            //record the last board_name to check if a new board element should be created
+            $dbBoardname_last = $dbBoardname;
+        } 
+    ?>
+</div>
+```
+[LINK TO CODE](https://www.php.net/crypt)
