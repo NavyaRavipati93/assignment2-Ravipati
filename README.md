@@ -23,3 +23,12 @@ The National Gallery is an **art museum** in Trafalgar Square in the City of Wes
 
  Link to [click here to know in detail AboutMe](AboutMe.md)
 
+---
+# TABLE
+
+|CITY|LOCATION|TIME|
+|----|--------|----|
+|USA|LAS VEGAS|3 HOURS|
+|INDIA|DELHI|4 HOURS|
+|AUSTRALIA|SYDNEY|6 HOURS|
+|UK|LONDON|8 HOURS|
