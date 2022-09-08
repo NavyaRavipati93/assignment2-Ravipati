@@ -24,7 +24,7 @@ The National Gallery is an **art museum** in Trafalgar Square in the City of Wes
  Link to [click here to know in detail AboutMe](AboutMe.md)
 
 ---
-# TABLE
+# INTERESTING PLACES TO VISIT IN CITIES
 
 |CITY|LOCATION|TIME|
 |----|--------|----|
