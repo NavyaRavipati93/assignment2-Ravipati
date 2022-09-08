@@ -35,3 +35,13 @@ Some of the cities i would like to recommend to visit the locations people like 
 |INDIA|DELHI|4 HOURS|
 |AUSTRALIA|SYDNEY|6 HOURS|
 |UK|LONDON|8 HOURS|
+
+
+---
+# IMPORTANT QUOTES
+
+> In a conflict between the heart and the brain, follow your heart.
+*Swami Vivekananda*
+
+> The greatest sin is to think yourself weak
+*Swami Vivekananda*
